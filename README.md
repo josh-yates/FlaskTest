@@ -10,6 +10,10 @@ Sample project testing python flask server, with the aim of deploying to a raspb
     - ```pip install flask```
     - ```python src\app.py``` to run
 
+## Issues setting up on the raspberry pi
+If you are having issues running the venv setup, try ```sudo apt-get install python3-venv```
+
+
 # References
 - [Flask docs](http://flask.pocoo.org/docs/1.0/installation/)
 - [freeCodeCamp](https://medium.freecodecamp.org/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492)
